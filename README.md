@@ -1,0 +1,2 @@
+# JS-minesweeper
+Poprawione
