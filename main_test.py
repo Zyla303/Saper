@@ -1,4 +1,3 @@
-"""Testy modułu spam."""
 import main
 import unittest
 
